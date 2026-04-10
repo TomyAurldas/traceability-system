@@ -1,0 +1,15 @@
+- id: US-001
+  title: User Login
+  description: User should login with valid credentials
+
+- id: US-002
+  title: View Dashboard
+  description: User should see dashboard after login
+
+- id: US-003
+  title: Logout
+  description: User should logout successfully
+
+- id: US-004
+  title: Change Password
+  description: User should be able to change password
